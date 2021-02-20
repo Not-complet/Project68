@@ -1,0 +1,63 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+    background-color:lightblue;
+}
+.navbar-inverse{
+    position: sticky;
+    top:0;
+    z-index: 999999999;
+}
+li{
+    list-style-type: none;
+    color:white;
+    margin-top:12px;
+    margin-right: 10px;
+    font-size;15px;
+}
+p{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size:15px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+#apex{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color:lightblue;
+    border-style: solid;
+    border-radius:50px;
+}
+#yearbook{
+    margin-top: 75px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: lightgreen;
+    border-style: solid;
+    border-radius:50px;
+}
+img{
+    width:300px;
+}
+marquee{
+    font-size:40px;
+}
+#text{
+    margin-top:25px;
+}
+span{
+    display:flex;
+    justify-content:center;
+}
+.contact_1{
+    margin-top: 150px;
+}
+#text2{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
